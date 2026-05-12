@@ -2,7 +2,6 @@
 
 <!--
 **2ah33d/2ah33d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +13,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+BIO
+My name is Zaheed! I'm currently studying at UBC, enjoying my time learning Electrical Engineering!
+
+PROJECTS
+- NHTSA Scraper: My first project to integrate APIs with a LLM, summarizes and gives the safety data of the vehicle you choose.
+    Check it out at https://github.com/2ah33d/techto-scraper.git
+- Engram: A memory-based enterprise workspace tool, taught me a lot about prompt engineering!
+    Check it out at: https://github.com/AyushNaaa/Engram.git
