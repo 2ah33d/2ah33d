@@ -20,5 +20,5 @@ BIO
 PROJECTS
 - NHTSA Scraper: My first project to integrate APIs with a LLM, summarizes and gives the safety data of the vehicle you choose.
     Check it out at https://github.com/2ah33d/techto-scraper.git
-- Engram: A memory-based enterprise workspace tool, taught me a lot about prompt engineering!
+- Engram: A memory-based enterprise workspace tool, taught me a lot about prompt engineering
     Check it out at: https://github.com/AyushNaaa/Engram.git
